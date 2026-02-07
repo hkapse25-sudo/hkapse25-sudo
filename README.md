@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I am Harsha 👋
 
-<!--
-**hkapse25-sudo/hkapse25-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🏥 Healthcare Informatics Graduate | Pharma MBA**
+I bridge the gap between Pharmaceutical Management and Data Science. Currently pursuing my MS in Healthcare Informatics and working as a Graduate Assistant at the PioTech Center.
 
-Here are some ideas to get you started:
+**🚀 What I Do**
+**Data Storytelling:** Turning complex clinical data into actionable insights using SQL and Tableau.
+**Supply Chain Optimization:**Leveraging my background in the pharmaceutical industry to improve healthcare workflows.
+**Quality Improvement:** Applying Lean Six Sigma principles to ensure data accuracy and process efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack**
+**Languages & Databases: **SQL, Excel (VBA/Macros)
+**Data Visualization:** Power BI, Tableau
+**Domain: **Clinical Data Analysis, Pharmacy Supply Chain, Healthcare IT
+
+
