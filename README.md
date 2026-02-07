@@ -10,8 +10,8 @@ Currently pursuing my MS in Healthcare Informatics and working as a Graduate Ass
 - Applying Lean Six Sigma principles to ensure data accuracy and process efficiency.
 
 **🛠️ Tech Stack**
-- **Languages & Databases: **SQL, Excel (VBA/Macros)
-- **Data Visualization:** Power BI, Tableau
-- **Domain: **Clinical Data Analysis, Pharmacy Supply Chain, Healthcare IT
+- Languages & Databases:SQL, Excel (VBA/Macros)
+- Data Visualization:Power BI, Tableau
+- Domain:Clinical Data Analysis, Pharmacy Supply Chain, Healthcare IT
 
 
